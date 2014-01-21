@@ -21,6 +21,7 @@
 		00AB727E188E10E80059360D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00AB7260188E10E80059360D /* UIKit.framework */; };
 		00AB7286188E10E80059360D /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00AB7284188E10E80059360D /* InfoPlist.strings */; };
 		00AB7288188E10E80059360D /* LinkedFacebookTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00AB7287188E10E80059360D /* LinkedFacebookTests.m */; };
+		00AB7292188E11E70059360D /* c2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00AB7291188E11E70059360D /* c2.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00AB7283188E10E80059360D /* LinkedFacebookTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LinkedFacebookTests-Info.plist"; sourceTree = "<group>"; };
 		00AB7285188E10E80059360D /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00AB7287188E10E80059360D /* LinkedFacebookTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LinkedFacebookTests.m; sourceTree = "<group>"; };
+		00AB7291188E11E70059360D /* c2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c2.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00AB7262188E10E80059360D /* LinkedFacebook */ = {
 			isa = PBXGroup;
 			children = (
+				00AB7291188E11E70059360D /* c2.jpg */,
 				00AB726B188E10E80059360D /* AppDelegate.h */,
 				00AB726C188E10E80059360D /* AppDelegate.m */,
 				00AB726E188E10E80059360D /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				00AB7275188E10E80059360D /* Images.xcassets in Resources */,
 				00AB7267188E10E80059360D /* InfoPlist.strings in Resources */,
+				00AB7292188E11E70059360D /* c2.jpg in Resources */,
 				00AB7270188E10E80059360D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
